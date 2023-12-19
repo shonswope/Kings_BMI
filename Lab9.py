@@ -1,13 +1,10 @@
 # ******************************************************************************
 # Author:           Shonte Swope
-# Lab:              Lab 7
 # Date:             Nov 26, 2023
 # Description:      This program take users input to calculate BMI compared to
 #                   a random integer.
 # Input:            Number for users weight and number for users height
 # Output:           printed statement base on input calculation for BMI and Distance  results
-# Sources:          https://runestone.academy , https://www.w3schools.com/python/
-#                   python_while_loops.asp
 # ******************************************************************************
 #Sample run
 #Story prompts
